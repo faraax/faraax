@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a frontend developer<br>🤝 I’m looking for help with Reactjs, Javascript, Nextjs
-
+🔭 I’m currently working as a Frontend Developer, focusing on building dynamic and responsive user interfaces using React.js, JavaScript, and Next.js.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smarti.faraz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farax_ahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farax-ahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/farazahmed29) 
